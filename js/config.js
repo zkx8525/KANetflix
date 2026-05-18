@@ -13,8 +13,8 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'KANetflix',
-    url: 'https://kanetflix.pages.dev/',
+    name: 'CD-TV',
+    url: 'https://tv.kxking.eu.org/',
     description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
     version: '1.0.3'
@@ -24,8 +24,7 @@ const SITE_CONFIG = {
 const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-        name: '电影天堂资源',
-        detail: 'http://caiji.dyttzyapi.com', 
+        name: '电影天堂资源'
     },
     tyyszy: {
         api: 'https://tyyszy.com/api.php/provide/vod',
